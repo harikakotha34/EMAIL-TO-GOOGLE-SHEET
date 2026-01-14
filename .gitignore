@@ -1,0 +1,21 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Credentials / API keys
+credentials.json
+token.json
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Proof or temporary files (optional)
+*.log
+*.tmp
+
+git status
